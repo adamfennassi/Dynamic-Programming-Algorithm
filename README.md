@@ -1,27 +1,27 @@
-# BSQ - Biggest Square
+# BSQ - Plus Grand Carre
 
 ## Description
 
-BSQ finds the biggest square of free space in a grid. The grid is read from a file where `.` represents empty space and `o` represents an obstacle. The program replaces the area of the biggest square found with `x` characters and prints the result.
+BSQ trouve le plus grand carre d'espace libre dans une grille. La grille est lue depuis un fichier ou `.` represente un espace vide et `o` un obstacle. Le programme remplace la zone du plus grand carre trouve par des `x` et affiche le resultat.
 
-## Build
-
-```
-make        # compile
-make re     # recompile
-make clean  # remove .o files
-make fclean # remove .o files and binary
-```
-
-## Usage
+## Compilation
 
 ```
-./bsq map_file
+make        # compiler
+make re     # recompiler
+make clean  # supprimer les .o
+make fclean # supprimer les .o et le binaire
 ```
 
-## Example
+## Utilisation
 
-Input file:
+```
+./bsq fichier_carte
+```
+
+## Exemple
+
+Fichier d'entree :
 ```
 5.o
 .....
@@ -31,7 +31,7 @@ Input file:
 .o...
 ```
 
-Output:
+Sortie :
 ```
 .....
 .o...
@@ -40,9 +40,9 @@ Output:
 .oxx.
 ```
 
-The program found a 3x3 square and marked it with `x`.
+Le programme a trouve un carre de 3x3 et l'a marque avec des `x`.
 
-## Return values
+## Valeurs de retour
 
-- 0 on success
-- 84 on error
+- 0 en cas de succes
+- 84 en cas d'erreur
