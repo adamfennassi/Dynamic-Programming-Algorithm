@@ -1,11 +1,5 @@
 /*
-** strlen_nb_line.c for nb line in /home/deguer_r/Documents/CPE/CPE_2015_BSQ
-** 
-** Made by 
-** Login   <romain.deguerville@epitech.net>
-** 
-** Started on  Tue Dec 15 13:34:53 2015 
-** Last update Sun Dec 20 22:35:57 2015 Romain Deguerville
+** strlen_nb_line.c - Adam Fennassi
 */
 
 #include "my.h"

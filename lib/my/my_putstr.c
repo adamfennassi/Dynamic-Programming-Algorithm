@@ -1,11 +1,5 @@
 /*
-** my_putstr.c for Piscine_C_J04 in /home/deguer_r/Desktop/Piscine_C_J04
-** 
-** Made by Romain Deguerville
-** Login   <deguer_r@epitech.net>
-** 
-** Started on  Thu Oct  1 10:08:07 2015 Romain Deguerville
-** Last update Fri Dec 18 14:27:05 2015 Romain Deguerville
+** my_putstr.c - Adam Fennassi
 */
 
 #include <unistd.h>

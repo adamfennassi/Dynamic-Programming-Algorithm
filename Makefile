@@ -1,11 +1,5 @@
 ##
-## Makefile for makefile in /home/herbaux_a/Piscine_C_bistromathique
-## 
-## Made by jean-sebastien herbaux
-## Login   <herbaux_a@epitech.net>
-## 
-## Started on  Thu Oct 29 15:07:07 2015 jean-sebastien herbaux
-## Last update Fri Dec 18 14:33:56 2015 Romain Deguerville
+## Makefile - Adam Fennassi
 ##
 
 NAME	=	bsq

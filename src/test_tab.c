@@ -1,11 +1,5 @@
 /*
-** test_tab.c for test_tab in /home/deguer_r/CPE/CPE_2015_BSQ
-** 
-** Made by Romain Deguerville
-** Login   <deguer_r@epitech.net>
-** 
-** Started on  Fri Dec 18 12:24:45 2015 Romain Deguerville
-** Last update Fri Dec 18 12:25:12 2015 Romain Deguerville
+** test_tab.c - Adam Fennassi
 */
 
 #include <stdio.h>

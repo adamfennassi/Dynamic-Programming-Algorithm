@@ -1,11 +1,5 @@
 /*
-** main.c for main in /home/deguer_r/CPE_2015_bsq
-** 
-** Made by Romain Deguerville
-** Login   <deguer_r@epitech.net>
-** 
-** Started on  Mon Nov 30 20:59:17 2015 Romain Deguerville
-** Last update Fri Dec 18 13:23:06 2015 Romain Deguerville
+** posey.c - Adam Fennassi
 */
 
 #include <stdio.h>

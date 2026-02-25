@@ -1,11 +1,5 @@
 /*
-** test_segfault.c for test in /home/deguer_r/CPE/CPE_2015_BSQ
-** 
-** Made by Romain Deguerville
-** Login   <deguer_r@epitech.net>
-** 
-** Started on  Thu Dec 17 12:31:42 2015 Romain Deguerville
-** Last update Fri Dec 18 12:42:56 2015 Romain Deguerville
+** test_segfault.c - Adam Fennassi
 */
 
 #include <unistd.h>

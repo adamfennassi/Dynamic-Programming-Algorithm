@@ -1,11 +1,5 @@
 /*
-** my.h for my in /home/deguer_r/CPE_2015_Pushswap
-** 
-** Made by Romain Deguerville
-** Login   <deguer_r@epitech.net>
-** 
-** Started on  Mon Nov 16 18:52:25 2015 Romain Deguerville
-** Last update Fri Dec 18 14:26:11 2015 Romain Deguerville
+** my.h - Adam Fennassi
 */
 
 #ifndef MY_H_

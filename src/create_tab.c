@@ -1,11 +1,5 @@
 /*
-** create_tab.c for create in /home/deguer_r/Documents/CPE/CPE_2015_BSQ
-** 
-** Made by 
-** Login   <romain.deguerville@epitech.net>
-** 
-** Started on  Tue Dec 15 13:35:41 2015 
-** Last update Sun Dec 20 22:34:02 2015 Romain Deguerville
+** create_tab.c - Adam Fennassi
 */
 
 #include <stdlib.h>

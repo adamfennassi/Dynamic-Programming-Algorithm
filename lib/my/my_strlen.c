@@ -1,11 +1,5 @@
 /*
-** my_strlen.c for my_strlen in /home/deguer_r/popopo
-** 
-** Made by Romain Deguerville
-** Login   <deguer_r@epitech.net>
-** 
-** Started on  Tue Dec  1 17:37:52 2015 Romain Deguerville
-** Last update Tue Dec  1 17:41:29 2015 Romain Deguerville
+** my_strlen.c - Adam Fennassi
 */
 
 #include <stdlib.h>

@@ -1,11 +1,5 @@
 /*
-** main.c for cool in /home/deguer_r/Desktop/colle
-** 
-** Made by Romain Deguerville
-** Login   <deguer_r@epitech.net>
-** 
-** Started on  Sat Oct 24 16:56:14 2015 Romain Deguerville
-** Last update Sun Dec 20 22:34:48 2015 Romain Deguerville
+** main.c - Adam Fennassi
 */
 
 #include <unistd.h>

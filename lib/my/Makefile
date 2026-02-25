@@ -1,11 +1,5 @@
 ##
-## Makefile for make in /home/deguer_r/TmpPrintf/Printf/lib/my
-## 
-## Made by Romain Deguerville
-## Login   <deguer_r@epitech.net>
-## 
-## Started on  Wed Nov 11 22:18:57 2015 Romain Deguerville
-## Last update Fri Dec 18 14:51:25 2015 Romain Deguerville
+## Makefile - Adam Fennassi
 ##
 
 CC	= gcc -Wall -Werror -W -ansi -pedantic
